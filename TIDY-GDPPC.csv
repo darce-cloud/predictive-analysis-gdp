@@ -1,0 +1,231 @@
+"Country" "adjusted_savings" "Edu_Index" "GDP_imports_exports" "GDP_per_capita" "Laborparticipation" "Life_expctancy_index" "PrisonPop_100kpeople" "youth_not_in_school_or_employment" "system"
+"1" "Afghanistan" -2.6 0.39 81.6 1773 63.9 0.647 80 NA "Presidential"
+"2" "Albania" 8.1 0.743 76.5 10370 57.4 0.881 158 27.6 "Parliamentary"
+"3" "Algeria" 24.6 0.639 65.4 13226 42.7 0.853 133 22.7 "Presidential"
+"4" "Angola" -19.5 0.435 91.8 6645 77.9 0.573 NA NA "Presidential"
+"5" "Argentina" 8.8 0.822 30.5 19392 60.7 0.855 148 18.4 "Presidential"
+"6" "Armenia" -1.1 0.736 76 7505 60.4 0.828 165 36.8 "Presidential"
+"7" "Australia" 9.4 0.928 43.2 42848 65.3 0.958 129 9.9 "Parliamentary"
+"8" "Austria" 12.9 0.841 105.2 44552 60.3 0.937 103 6.8 "Parliamentary"
+"9" "Azerbaijan" 20.7 0.665 78.3 15889 64.3 0.792 224 NA "Presidential"
+"10" "Bahamas" 19.4 0.729 84.3 30079 74.9 0.807 385 NA "Parliamentary"
+"11" "Bahrain" 17.2 0.664 185.9 40969 71.5 0.867 177 NA "Presidential"
+"12" "Bangladesh" 28.2 0.456 48.1 2791 56.6 0.779 44 NA "Parliamentary"
+"13" "Barbados" -0.5 0.776 86.4 16338 66.7 0.901 371 NA "Parliamentary"
+"14" "Belarus" 24.7 0.833 153.1 17472 63.7 0.801 304 NA "Presidential"
+"15" "Belgium" 10.5 0.874 164 41125 53.1 0.93 101 12.3 "Parliamentary"
+"16" "Belize" -2.1 0.665 124.9 7875 68.8 0.816 756 11.9 "Parliamentary"
+"17" "Benin" -0.1 0.433 54.8 1856 70.9 0.613 NA NA "Presidential"
+"18" "Bhutan" 42.9 0.424 101.8 7548 65.6 0.758 144 NA "Presidential"
+"19" "Bolivia (Plurinational State of)" 9.4 0.644 84.9 5716 68.9 0.754 139 10.4 NA
+"20" "Botswana" 30.3 0.645 110.7 14284 68.2 0.669 203 NA "Parliamentary"
+"21" "Brazil" 8.7 0.628 25.1 15215 64.4 0.834 284 20 "Presidential"
+"22" "Brunei Darussalam" 38 0.709 105.6 82150 66.3 0.846 121 NA NA
+"23" "Bulgaria" 8.6 0.764 124.8 15772 53.1 0.833 130 21.5 "Parliamentary"
+"24" "Burkina Faso" 3.3 0.253 62.7 1521 68.6 0.59 30 NA "Presidential"
+"25" "Burundi" -14.1 0.399 43.7 748 78.7 0.593 68 NA "Presidential"
+"26" "Cabo Verde" 11.4 0.524 100.3 6091 67.3 0.791 262 NA NA
+"27" "Cambodia" 8.6 0.455 120.6 2806 83.7 0.73 104 12.7 "Parliamentary"
+"28" "Cameroon" 1.2 0.51 56.4 2965 76.1 0.555 109 NA "Presidential"
+"29" "Canada" 8.2 0.862 62.5 41842 66.2 0.949 117 13.8 "Parliamentary"
+"30" "Central African Republic" NA 0.322 33.1 1063 72.6 0.441 19 NA NA
+"31" "Chad" NA 0.278 80.6 1951 71.5 0.491 38 NA "Presidential"
+"32" "Chile" 5.5 0.751 68.3 21219 61.9 0.91 326 17.9 "Presidential"
+"33" "China" 23.6 0.617 48.3 11115 70.6 0.846 119 NA NA
+"34" "Colombia" 2.6 0.647 38.9 11996 70.8 0.86 243 22.5 "Presidential"
+"35" "Comoros" 5.8 0.465 40.8 2483 43 0.655 NA NA NA
+"36" "Congo" -42.1 0.5 144.1 5415 69.6 0.637 NA NA "Presidential"
+"37" "Congo (Democratic Republic of the)" -19.5 0.453 68.4 706 64 0.583 32 21.4 NA
+"38" "Costa Rica" 14.3 0.689 68.1 13778 63.8 0.909 288 17.8 "Presidential"
+"39" "Croatia" 6.7 0.783 82.6 20343 51.4 0.882 110 16.6 "Parliamentary"
+"40" "Cyprus" 3.2 0.777 108.1 31750 62.8 0.92 60 16 "Presidential"
+"41" "Czechia" 5.1 0.859 147.5 28527 58.7 0.893 214 8.9 NA
+"42" "Côte d'Ivoire" 10.1 0.393 93.7 2696 59.5 0.527 33 12.7 NA
+"43" "Denmark" 12.7 0.925 103.2 44337 63.2 0.922 68 6.6 "Parliamentary"
+"44" "Djibouti" NA 0.308 NA NA 62.5 0.637 NA NA "Presidential"
+"45" "Dominican Republic" 14 0.616 58.4 11754 59.8 0.808 237 20.2 NA
+"46" "Ecuador" 11 0.681 61.8 10286 65 0.854 138 16.6 "Presidential"
+"47" "Egypt" 1.8 0.571 40.7 9982 49.4 0.781 NA 31.6 "Presidential"
+"48" "El Salvador" 6.1 0.577 77.6 6646 60.4 0.795 456 26 "Presidential"
+"49" "Eritrea" NA 0.271 NA NA 80.3 0.665 NA NA "Assembly-Elected President"
+"50" "Estonia" 13.8 0.877 170.4 25692 61.3 0.868 248 12.2 "Assembly-Elected President"
+"51" "Eswatini (Kingdom of)" 10.9 0.515 99.9 8707 50.8 0.459 273 NA NA
+"52" "Ethiopia" 9 0.314 45.4 1227 80.9 0.666 120 NA "Parliamentary"
+"53" "Fiji" 6.4 0.738 NA 7612 61.3 0.721 160 NA "Parliamentary"
+"54" "Finland" 7.5 0.887 80.4 39913 59.7 0.932 61 8.6 "Parliamentary"
+"55" "France" 8 0.792 59.7 37377 56.2 0.952 105 12.5 "Parliamentary"
+"56" "Gabon" 8.9 0.608 92.3 16225 50 0.66 NA NA "Presidential"
+"57" "Gambia" -12.7 0.345 75.1 1476 59.5 0.618 NA 34 "Presidential"
+"58" "Georgia" 5.6 0.79 95.9 8084 67.2 0.802 471 32.6 "Presidential"
+"59" "Germany" 12.3 0.933 85.9 42822 60 0.929 85 7.1 NA
+"60" "Ghana" -17.8 0.541 93.2 3596 68.7 0.642 52 NA "Presidential"
+"61" "Greece" -8.8 0.805 61.8 24364 53.6 0.938 110 20.2 "Parliamentary"
+"62" "Guatemala" 0.9 0.45 61 6899 66.1 0.804 98 22.5 "Presidential"
+"63" "Guinea" -22.5 0.322 86.7 1784 64.9 0.583 23 NA "Presidential"
+"64" "Guinea-Bissau" -15.5 0.377 41.2 1442 72.4 0.548 NA NA "Presidential"
+"65" "Guyana" -5.6 0.591 148.1 6400 56.5 0.747 270 NA "Assembly-Elected President"
+"66" "Haiti" 17.4 0.411 70.1 1591 66.3 0.635 85 18.2 "Presidential"
+"67" "Honduras" 14.3 0.474 121.2 4072 61.3 0.828 142 28.7 "Presidential"
+"68" "Hungary" 5.7 0.818 166.1 22585 51.6 0.848 174 14.8 "Parliamentary"
+"69" "Iceland" -1.5 0.883 104.3 41077 74.4 0.955 47 5.9 "Parliamentary"
+"70" "India" 22.1 0.505 55.8 4817 52.3 0.731 30 27.5 "Parliamentary"
+"71" "Indonesia" 10.2 0.607 49.6 9267 67.7 0.767 63 22.9 "Presidential"
+"72" "Iran (Islamic Republic of)" NA 0.731 47.4 16827 42.4 0.843 NA NA NA
+"73" "Iraq" 21.5 0.506 73.5 15033 42.3 0.756 111 40.6 "Parliamentary"
+"74" "Ireland" 9.1 0.877 191.4 44829 62 0.932 92 19.2 "Parliamentary"
+"75" "Israel" 12.8 0.87 72 30645 63.6 0.951 264 16.7 "Parliamentary"
+"76" "Italy" 2.5 0.787 56.2 35228 48.7 0.958 112 20.9 "Parliamentary"
+"77" "Jamaica" 7.6 0.685 82 8016 64.4 0.831 154 NA "Parliamentary"
+"78" "Japan" 2.9 0.823 30.6 36368 59.3 0.974 52 4.2 "Parliamentary"
+"79" "Jordan" 4.3 0.685 120.6 8871 40.3 0.827 97 NA "Presidential"
+"80" "Kazakhstan" 6.4 0.801 73.7 21986 70.5 0.751 268 8 "Presidential"
+"81" "Kenya" 1.1 0.505 57.8 2562 66.3 0.656 102 NA "Presidential"
+"82" "Korea (Republic of)" 17.5 0.86 109.9 31777 61.2 0.941 94 NA NA
+"83" "Kuwait" 35.5 0.608 101 78700 73.2 0.842 NA NA "Presidential"
+"84" "Kyrgyzstan" -0.8 0.71 139.7 2867 63.9 0.767 176 62.5 "Presidential"
+"85" "Lao People's Democratic Republic" -17.2 0.459 98.2 4772 78.1 0.696 NA NA NA
+"86" "Latvia" 2.7 0.843 127.1 20828 59.8 0.827 296 14.9 "Parliamentary"
+"87" "Lebanon" -16.1 0.619 94.7 13355 46.1 0.902 103 NA "Assembly-Elected President"
+"88" "Lesotho" 9.3 0.505 139 2715 66.7 0.422 123 NA "Parliamentary"
+"89" "Liberia" -60.8 0.414 122.2 1211 56.3 0.626 NA 11.1 "Presidential"
+"90" "Libya" NA 0.616 114.4 24609 50.9 0.798 51 NA "Presidential"
+"91" "Lithuania" NA 0.855 162.4 24049 58.2 0.826 320 11.2 "Presidential"
+"92" "Luxembourg" 14.5 0.779 341.9 89505 58 0.938 125 5.9 "Parliamentary"
+"93" "Madagascar" 3.9 0.489 67.6 1371 88.4 0.681 86 3.8 "Presidential"
+"94" "Malawi" -21.1 0.436 67.9 1087 77.5 0.594 76 15.3 "Presidential"
+"95" "Malaysia" 13.3 0.696 147.8 22670 62.4 0.844 125 13.9 "Parliamentary"
+"96" "Mali" -9 0.284 58.7 1808 71.2 0.556 NA NA "Presidential"
+"97" "Mauritania" 1 0.359 132.5 3578 45.8 0.663 42 39.5 "Presidential"
+"98" "Mauritius" 0.7 0.699 119.5 17093 57.7 0.83 220 21.6 "Parliamentary"
+"99" "Mexico" 5.7 0.65 65.8 16891 62.1 0.846 172 21.1 "Presidential"
+"100" "Moldova (Republic of)" 12.7 0.709 96.3 4984 40.8 0.778 162 29.3 NA
+"101" "Mongolia" 10.1 0.738 109.6 9753 59.4 0.742 289 17.6 "Presidential"
+"102" "Morocco" 17.2 0.48 85.1 6810 49.2 0.846 212 NA "Presidential"
+"103" "Mozambique" -6.3 0.345 110.8 1027 81.2 0.522 NA NA "Presidential"
+"104" "Myanmar" 29.2 0.417 22.4 4114 66.8 0.684 NA NA "Presidential"
+"105" "Namibia" 12 0.557 103.6 9250 58.3 0.606 NA 31.1 "Presidential"
+"106" "Nepal" 34 0.475 43.7 2155 83.1 0.745 54 NA "Parliamentary"
+"107" "Netherlands" 15.4 0.895 149.3 45949 64.6 0.942 80 4.8 "Parliamentary"
+"108" "New Zealand" 8.9 0.903 57 33280 67.3 0.942 184 13.6 "Parliamentary"
+"109" "Nicaragua" 10.3 0.529 115.2 4375 65.2 0.815 167 15 "Presidential"
+"110" "Niger" 8.5 0.2 61.2 860 79.1 0.597 39 NA "Presidential"
+"111" "Nigeria" 14.4 0.437 44.5 5291 55.1 0.489 31 NA "Presidential"
+"112" "North Macedonia" 6.8 0.67 112.2 11548 55.1 0.846 123 24.8 NA
+"113" "Norway" 21.8 0.907 68.1 63003 65.3 0.946 81 5.2 "Parliamentary"
+"114" "Oman" -8 0.664 116.4 42620 65.1 0.864 NA NA "Presidential"
+"115" "Pakistan" 11 0.376 32.8 4149 51.9 0.705 42 NA "Assembly-Elected President"
+"116" "Panama" 28.5 0.668 158.1 18453 64.2 0.88 384 17.6 "Presidential"
+"117" "Papua New Guinea" NA 0.391 NA 3146 48.1 0.655 47 NA NA
+"118" "Paraguay" 12.1 0.605 72.6 9827 72.4 0.816 128 15.3 "Presidential"
+"119" "Peru" 11.2 0.666 52.6 11186 78.5 0.846 204 15.4 "Presidential"
+"120" "Philippines" 26 0.644 64.9 5967 62.5 0.772 110 24.8 "Presidential"
+"121" "Poland" 9.1 0.817 89.3 23218 56.4 0.876 223 11.8 "Presidential"
+"122" "Portugal" -1.1 0.733 75.9 25806 60 0.931 131 13.9 "Parliamentary"
+"123" "Qatar" 34.9 0.672 105.7 120366 85.9 0.914 NA NA "Presidential"
+"124" "Romania" 3.5 0.763 79.9 18361 54.6 0.842 158 16.8 "Parliamentary"
+"125" "Russian Federation" 10.8 0.793 47.1 25156 62.7 0.768 489 12 NA
+"126" "Rwanda" -1.6 0.443 44.6 1559 84.6 0.699 516 NA "Presidential"
+"127" "Saint Lucia" 11.5 0.641 94.3 11936 66.6 0.848 325 NA NA
+"128" "Saint Vincent and the Grenadines" NA 0.652 85.2 10092 68.5 0.798 421 NA NA
+"129" "Saudi Arabia" 30.1 0.747 83.5 49541 53.5 0.835 NA 18.8 "Presidential"
+"130" "Senegal" 8 0.333 61.3 2800 47.8 0.699 62 NA "Presidential"
+"131" "Serbia" -5 0.741 85.5 13720 51.3 0.84 114 21.6 NA
+"132" "Sierra Leone" -6.8 0.364 93.3 1414 59.6 0.477 41 NA "Presidential"
+"133" "Singapore" 38.6 0.816 369.2 77493 67.6 0.958 246 6.4 "Parliamentary"
+"134" "Slovakia" 3.6 0.824 179.2 26218 59.1 0.863 200 13.8 "Parliamentary"
+"135" "Slovenia" 4.3 0.859 142 27977 57.7 0.923 67 9.3 "Parliamentary"
+"136" "Solomon Islands" NA 0.468 120.9 2102 71.7 0.789 53 NA NA
+"137" "South Africa" 0.6 0.685 60.9 12253 52.7 0.616 298 32.2 NA
+"138" "Spain" 5.2 0.8 59.9 31109 59.3 0.96 146 18.6 "Parliamentary"
+"139" "Sri Lanka" 27.6 0.744 51.5 9980 53.5 0.858 114 NA "Presidential"
+"140" "Sudan" -1 0.311 24.7 4074 47.3 0.67 NA NA "Presidential"
+"141" "Suriname" NA 0.634 NA 15016 52.1 0.782 NA NA "Parliamentary"
+"142" "Sweden" 17.6 0.854 87.6 43356 63.4 0.951 66 7.8 "Parliamentary"
+"143" "Switzerland" 19.1 0.885 123.7 56150 67.5 0.963 76 6.8 "Parliamentary"
+"144" "Tajikistan" -3.9 0.668 83.2 2360 43.4 0.759 NA NA "Presidential"
+"145" "Tanzania (United Republic of)" 17.7 0.426 54.4 2363 85 0.623 68 NA NA
+"146" "Thailand" 13.3 0.626 138.5 14450 72.8 0.846 346 12.8 "Parliamentary"
+"147" "Timor-Leste" 7.5 0.508 133.8 10174 40.5 0.734 26 NA "Presidential"
+"148" "Togo" -12.8 0.483 107 1335 78 0.595 61 NA "Assembly-Elected President"
+"149" "Tonga" 9.3 0.735 77.8 5239 59.8 0.773 151 NA NA
+"150" "Tunisia" -0.9 0.633 106.5 10442 47.6 0.852 NA NA "Presidential"
+"151" "Turkey" 10.8 0.656 52.2 20259 48.7 0.852 183 28.7 "Parliamentary"
+"152" "Uganda" -4.1 0.483 53.3 1690 71.1 0.6 97 14.5 "Presidential"
+"153" "Ukraine" 0.2 0.791 104.1 8322 54.9 0.776 NA NA "Presidential"
+"154" "United Kingdom" 3.7 0.866 61.1 37094 62 0.934 149 13.9 NA
+"155" "United States" 6.1 0.898 30.6 50632 62.9 0.906 712 18.8 NA
+"156" "Uruguay" 10.8 0.717 55.1 18575 65.4 0.877 277 17.7 "Presidential"
+"157" "Vanuatu" 12.2 0.527 99.9 2876 70.4 0.76 78 NA "Parliamentary"
+"158" "Venezuela (Bolivarian Republic of)" 23.4 0.708 50.4 17998 64.2 0.816 151 19.6 NA
+"159" "Viet Nam" 18.3 0.608 156.6 4856 76.6 0.846 144 9.4 NA
+"160" "Zambia" 11.2 0.529 79.1 3566 75.3 0.592 116 NA "Presidential"
+"161" "Zimbabwe" -34.2 0.549 74.2 2487 82.8 0.539 115 NA "Presidential"
+"162" "Andorra" NA 0.715 NA NA NA 0.939 44 NA NA
+"163" "United Arab Emirates" NA 0.687 165.1 57852 83.6 0.872 110 NA NA
+"164" "Antigua and Barbuda" NA 0.656 102.8 20389 NA 0.863 373 NA NA
+"165" "Bosnia and Herzegovina" NA 0.672 88.1 10049 47.6 0.868 80 28.5 NA
+"166" "Cuba" NA 0.773 45.9 NA 55 0.899 504 NA "Assembly-Elected President"
+"167" "Dominica" NA 0.637 83.7 10134 NA 0.886 382 NA NA
+"168" "Micronesia (Federated States of)" NA 0.556 110.7 3312 NA 0.72 NA NA NA
+"169" "Equatorial Guinea" NA 0.439 116.7 35888 61.8 0.558 NA NA NA
+"170" "Grenada" NA 0.733 75.3 10847 NA 0.81 464 NA "Parliamentary"
+"171" "Hong Kong, China (SAR)" NA 0.824 430.6 50378 60.1 0.974 133 6.1 NA
+"172" "Kiribati" NA 0.594 104.9 1803 NA 0.714 99 NA NA
+"173" "Saint Kitts and Nevis" NA 0.616 78.8 24416 NA 0.821 696 NA NA
+"174" "Liechtenstein" NA 0.827 NA NA NA 0.919 164 NA NA
+"175" "Maldives" NA 0.525 160.5 12261 65 0.872 257 NA "Presidential"
+"176" "Marshall Islands" NA NA 155.5 3367 NA 0.805 NA NA NA
+"177" "Malta" NA 0.777 325.8 29102 51.7 0.943 139 10.8 "Parliamentary"
+"178" "Montenegro" NA 0.789 111.8 14066 49.5 0.859 212 17.8 NA
+"179" "Palau" NA 0.803 142.8 15147 NA 0.802 NA NA NA
+"180" "Palestine, State of" NA 0.667 72.4 4569 43.2 0.816 345 30 NA
+"181" "South Sudan" NA 0.325 55.4 1940 73.3 0.551 NA NA "Presidential"
+"182" "Sao Tome and Principe" NA 0.476 NA 2639 59.2 0.743 119 NA NA
+"183" "Seychelles" NA 0.71 216.5 22618 NA 0.816 681 NA NA
+"184" "Syrian Arab Republic" NA 0.561 NA NA 42.8 0.778 NA NA NA
+"185" "Turkmenistan" NA 0.626 109.3 12235 64.5 0.726 NA NA "Presidential"
+"186" "Trinidad and Tobago" NA 0.701 NA 31180 62.2 0.806 277 NA NA
+"187" "Uzbekistan" NA 0.692 59.8 4765 64.5 0.772 142 NA "Presidential"
+"188" "Samoa" NA 0.694 81.5 5647 32.2 0.802 NA 38.9 "Parliamentary"
+"189" "Yemen" NA 0.335 NA 3861 38.1 0.706 NA NA "Presidential"
+"190" "Human Development" NA NA NA NA NA NA NA NA NA
+"191" "Very high human development" 8.2 0.832 61.6 36703 60.2 0.9 293 15.1 NA
+"192" "High human development" 16.9 0.631 51.4 11573 66.2 0.826 147 NA NA
+"193" "Medium human development" 17.4 0.491 65.2 4677 56 0.731 51 NA NA
+"194" "Low human development" 8.1 0.393 52.3 2556 65.7 0.593 67 NA NA
+"195" "Developing Countries" 16.9 0.554 62 8652 62.4 0.761 104 NA NA
+"196" "Regions" NA NA NA NA NA NA NA NA NA
+"197" "Arab States" 21.2 0.547 93.6 16328 48.8 0.782 NA NA NA
+"198" "East Asia and the Pacific" 22.3 0.609 65.3 10529 70.2 0.826 121 NA NA
+"199" "Europe and Central Asia" 9.3 0.712 70.6 13338 55.8 0.805 192 NA NA
+"200" "Latin America and the Caribbean" 8.9 0.649 43.6 14498 64.7 0.837 226 19.8 NA
+"201" "South Asia" 21.4 0.497 52 5056 52.8 0.738 35 NA NA
+"202" "Sub-Saharan Africa" 2.8 0.437 64.5 3418 68.2 0.584 88 NA NA
+"203" "Least Developed Countries" 6 0.403 62.3 2309 68 0.654 74 NA NA
+"204" "Small Island Developing States" NA 0.604 240.7 15873 59.9 0.78 232 NA NA
+"205" "Organization for Economic Co-operation and Development" 7.2 0.828 56.2 36969 59.8 0.918 275 16.2 NA
+"206" "World" 10.5 0.607 59.3 13859 62 0.787 143 NA NA
+"207" NA NA NA NA NA NA NA NA NA NA
+"208" NA NA NA NA NA NA NA NA NA NA
+"209" NA NA NA NA NA NA NA NA NA NA
+"210" NA NA NA NA NA NA NA NA NA NA
+"211" NA NA NA NA NA NA NA NA NA NA
+"212" NA NA NA NA NA NA NA NA NA NA
+"213" NA NA NA NA NA NA NA NA NA NA
+"214" NA NA NA NA NA NA NA NA NA NA
+"215" NA NA NA NA NA NA NA NA NA NA
+"216" NA NA NA NA NA NA NA NA NA NA
+"217" NA NA NA NA NA NA NA NA NA NA
+"218" NA NA NA NA NA NA NA NA NA NA
+"219" NA NA NA NA NA NA NA NA NA NA
+"220" NA NA NA NA NA NA NA NA NA NA
+"221" NA NA NA NA NA NA NA NA NA NA
+"222" NA NA NA NA NA NA NA NA NA NA
+"223" NA NA NA NA NA NA NA NA NA NA
+"224" NA NA NA NA NA NA NA NA NA NA
+"225" NA NA NA NA NA NA NA NA NA NA
+"226" NA NA NA NA NA NA NA NA NA NA
+"227" NA NA NA NA NA NA NA NA NA NA
+"228" NA NA NA NA NA NA NA NA NA NA
+"229" NA NA NA NA NA NA NA NA NA NA
+"230" NA NA NA NA NA NA NA NA NA NA
